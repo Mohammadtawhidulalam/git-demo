@@ -10,6 +10,7 @@
     <header>
         <div class="header">
             <h1></h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor eos iusto in eligendi placeat tempore quo eius impedit explicabo. Suscipit fuga dolorum aliquam rem magnam possimus tenetur at. Vero, fuga ex iusto ipsum deserunt sint totam, aperiam officia aliquid perferendis consequuntur officiis labore debitis temporibus. Voluptates, fugiat. Facilis voluptatibus fugit quos, ipsum, necessitatibus delectus odio, pariatur facere voluptatum illum fuga? Nihil fugit doloribus nesciunt possimus a laudantium voluptatem modi iusto molestiae, aliquam ducimus id odit. Fuga ducimus unde cum! Minima saepe, quasi aliquid est non nulla esse odio nam doloremque fuga nesciunt delectus quisquam autem optio dignissimos illum omnis incidunt?</p>
         </div>
     </header>
 </body>
