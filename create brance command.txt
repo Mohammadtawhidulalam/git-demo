@@ -1,0 +1,32 @@
+$ git brance brancename
+
+ex: git brance idbrance
+
+how many brance how to check
+
+$ git brance
+
+if you want to go master brance
+
+$ git checkout brancename
+ex: git checkout idbrance
+
+shortcut direct create brance and switch 
+
+$ git checkout -b newbranceName
+
+ex: git checkout -b home_brance
+
+it will create and switched to home brance
+
+
+$ git merge home-brance
+
+for delete 
+
+$ git brance -D idbrance
+
+
+
+
+
